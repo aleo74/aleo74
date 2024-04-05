@@ -1,7 +1,5 @@
 # <p style="text-align: center;">Bienvenue sur mon profil GitHub !</p>
 <br>
-<br>
-<br>
 
 #### À propos de moi
 Je suis Alexandre, un développeur passionné. J'aime explorer de nouvelles technologies et travailler sur des projets innovants.
@@ -48,7 +46,7 @@ Je suis Alexandre, un développeur passionné. J'aime explorer de nouvelles tech
 
 ![aleo74's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleo74\&show_icons=true\&show=prs_merged_percentage\&hide=contribs,issues)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aleo74)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aleo74)
 
 </div>
 
