@@ -33,7 +33,7 @@ Je suis Alexandre, un développeur passionné. J'aime explorer de nouvelles tech
 - Proxmox  8.1.3 ( i3-6100T, 16go DDR4, 256go) : CasaOS, Plex, HAOS, LXC (MariaDB, PostgreSQL, InfluxDB, Portainer)
 - RaspberryPi Zéro 2W
 
-## <p style="text-align: center;">Trophées</p>
+## Trophées
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=aleo74&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues">
@@ -43,12 +43,12 @@ Je suis Alexandre, un développeur passionné. J'aime explorer de nouvelles tech
 <img src="https://github-profile-trophy.vercel.app/?username=aleo74&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  
-## <p style="text-align: center;">Stats</p>
+## Stats
 <div align="center">
 
 ![aleo74's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleo74\&show_icons=true\&show=prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aleo74)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aleo74)](https://git.io/streak-stats)
 
 </div>
 
