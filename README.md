@@ -19,7 +19,7 @@ Je suis Alexandre, un développeur passionné. J'aime explorer de nouvelles tech
 
 #### 📜 Mes compétences
 - Langages : Python, C, C++, C#, PHP
-- Frameworks : FastAPI, FFlask, Laravel
+- Frameworks : FastAPI, Flask, Laravel
 - SGBD : MySQL, MariaDB, PostgreSQL, SQLite, MongoDB
 - OS : Debian, Ubuntu
 - Virtualisation : Proxmox
