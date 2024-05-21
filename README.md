@@ -6,6 +6,7 @@ Je suis Alexandre, un développeur passionné. J'aime explorer de nouvelles tech
 
 #### 🌱 Ce que j'apprends actuellement
 - Terraform, Ansible
+- Angular 17, ElectronJs
 - C# net 8
 
 #### 🔭 Projets actuel
@@ -20,6 +21,7 @@ Je suis Alexandre, un développeur passionné. J'aime explorer de nouvelles tech
 #### 📜 Mes compétences
 - Langages : Python, C, C++, C#, PHP
 - Frameworks : FastAPI, Flask, Laravel
+- Front-End : Vue.js
 - SGBD : MySQL, MariaDB, PostgreSQL, SQLite, MongoDB
 - OS : Debian, Ubuntu
 - Virtualisation : Proxmox
